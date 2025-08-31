@@ -16,3 +16,7 @@ rev0 - After field testing, found some issues with the MJF printing. but not a b
 
 ## TODO
 - [ ] FDM Printing guide.
+
+## License
+
+[CERN-OHL-W-2.0](./LICENSE.md)
